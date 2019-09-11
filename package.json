@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "tailwindcss": "^1.1.2"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}
